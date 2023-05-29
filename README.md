@@ -36,7 +36,7 @@ pip install scipy
 ## Usage
 To run the Whale Optimization Algorithm, you can either enter one of the command in terminal or directly press [Ctrl + Shift + F10] if you're using PyCharm.
 ```python
-python3 run.py || python run.py 
+python3 Main.py || python Main.py 
 
 ```
 
